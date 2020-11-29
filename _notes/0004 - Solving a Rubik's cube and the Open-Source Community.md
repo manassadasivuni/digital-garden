@@ -1,0 +1,23 @@
+---
+title: 0004 - Solving a Rubik's cube and the Open-Source Community
+---
+
+You know what a Rubik's cube is right? It's the cube (duh) with the coloured sides and you can twist and turn it around to mix it up. It's garnered quite a reputation for being a notoriously difficult puzzle to solve. After all, it took the creator himself a full month of non-stop tinkering to finally figure it out. It's all smoke and mirrors.
+
+Yes, figuring out a solution to it is quite difficult, but then again _figuring_ out a solution is quite difficult. On the other hand, you can just type in "How to solve a rubiks cube" into Google and the answer is right there, waiting for you to see it. Most people forget about the easy way out and are blinded by the "I have to do this alone" attitude. It's quite overrated, especially in a world where our fastest developing projects are usually open-source.
+
+For those of you who don't know, open-source refers to software whose source code is freely available on the internet, allowing anyone to make changes and submit them to the final product. To prevent spam and other malicious behaviour, the changes you make are reviewed before being implemented but this is rarely an issue as the community tends to try and actually improve the software rather than destroy it.  This happens so much that there's a website dedicated to the different types of open-source licenses ([opensource.org](https://opensource.org/))
+
+I understand that you might not be comfortable "cheating" your way through a puzzle, but this idea of communal give and take is  quite central to what makes us human. When we were cavemen, we couldn't find the sharpest rocks or the right seeds so we traded them for something we had. Now that there's more to have, it only makes sense that there should be more to give. Of course, this can only be called fair if there's an equal amount of give and take. 
+
+When I first stumbled upon the open-source community from various programming projects, I was quite surprised to see the size of it, after all, why would you build something from scratch, just to give it out for free and _let people see the inside workings of it_? I'm not the only one who had this thought, Steve Jobs did back when Apple was tiny: Steve Wozniak was willing to give out the Apple I's hardware for free, it was Jobs that decided to sell it.
+
+In case you haven't grasped how vital open-source software is to the way we exist, I'll give you two examples of open-source projects: Linux and WordPress. Linux is one of the most popular operating systems ever created and it's completely free and was made entirely by a team of volunteers and continues to be updated til this day. WordPress is the engine behind around 35% of the entire internet and is such a large project that if one person was to build this themselves, it would take them a grand total of 382 years. WordPress is so popular that multi-billion dollar companies such as Spotify and CNN use WordPress to host their blogs.
+
+The philosophy behind open-source isn't that it should be built by only one person but rather by a community. This has allowed for technology to soar past the limits of a mere human being. In fact, why shouldn't we make things public? In fear of someone stealing what we make? I doubt it, there are plenty of measures you can take to prevent this, the simplest being to use the correct license. I believe that it's more to do with a fear of the public, a fear of allowing someone to see your project that's not done yet.
+
+Yes, this fear is genuine, but it can be overcome. Just start slow, or one project at a time and eventually you'll find that the community will help you with your projects by pointing out something you would have never considered, or by pointing you in the direction of a helpful article or resource.
+
+Even if you have no experience with programming or anything tech related, you can still make your work public. A simple one is to use GitHub. If you have a book you're working on, or an album, you can store your files quite easily on GitHub for free. You're unlikely to get anyone to see what you've done, but you've taken the first step. After that's been done, announce your projects and publicise them like you only have one chance.
+
+In fact, this "notes" site is my attempt to work in public. It has less polished and less cohesive content than what I'd be able to put on my blog but that's okay. It'swhat I want it to be

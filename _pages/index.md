@@ -5,20 +5,12 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Hey there 👋
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+This is an unconvential sort of blog. Instead of posts in a chronological order, it's more of a web of interlinked notes that you're meant to lose yourself in. It's heavily inspired by [Andy Matuschak](https://notes.andymatuschak.org/) but about topics more personal to me.
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+If you don't know much about me, head over to the [[about]] page.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+> To fully understand these notes, see [[How These Notes Are Structured]]
 
-If this template helps you in any way, [consider buying me a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+# Entry points
