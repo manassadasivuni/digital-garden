@@ -1,6 +1,5 @@
 ---
 title: 0001 - The Beginning
-tags: [1000 Words]
 published: true
 ---
 
