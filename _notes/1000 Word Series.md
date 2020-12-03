@@ -2,6 +2,8 @@
 title: 1000 Word Series
 ---
 
+> This is an [[Index]]. See which notes relate to this topic in the "notes mentioning this note" section
+
 This is a series where the aim is to write 1000 words. This is now discontinued but you can view the archive here:
 
 - [[0001 - The Beginning]]
