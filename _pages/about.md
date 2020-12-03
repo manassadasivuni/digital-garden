@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
+<img src="assets/img/profile-pic.jpg" alt="Profile pic" width="250"/>
+
 # Hey there ✌, I'm Manas. 
 
 ## 👨‍💻 What I'm doing
