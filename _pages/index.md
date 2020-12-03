@@ -14,6 +14,7 @@ If you don't know much about me, head over to the [[about]] page.
 > To fully understand these notes, see [[How These Notes Are Structured]]
 
 # Entry points
-These notes are unlikely to have _any_ content in them. Look at which notes link to them to start reading. These are a select few topics that I'm writing about currently. To see the full list of Indexes, see [[Index]].
+These notes are unlikely to have _any_ content in them - at most, they may have a definition or explanation of the topic. Look at which notes link to them to start reading. These are a select few topics that I'm writing about currently. To see the full list of Indexes, see [[Index]].
 
 - [[Information]]
+- [[PKM]]
