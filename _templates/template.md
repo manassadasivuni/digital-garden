@@ -4,7 +4,7 @@ title: {{tp_title}}
 
 ## Metadata
 - Index: 
-- Status: 
+- Status: #🌱 
 - Origin: 
 - Links:
 	- 

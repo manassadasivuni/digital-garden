@@ -8,7 +8,7 @@ It operates on [[Markdown]] files to format notes and is my personal favourite f
 
 ## Metadata
 - Index: [[Software]]
-- Status: #🌱 
+- Status: #🌿 
 - Origin: [[Twitter]]
 - Links:
 	- [[PKM]]
