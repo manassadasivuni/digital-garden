@@ -4,7 +4,7 @@ title: 0012 - Communities
 
 A community is defined as "a unified body of individuals". This definition is quite simple but it gets the job done	but rather than debating the definition of a community, I'd rather talk about the importance of them.
 
-As of now, there are three "professional" communities that I'm part of. The first one that I joined was the Obsidian Discord server. You remember Obsidian right? I've mentioned them in the last few posts. Anyway, the second community is a Telegram group about digital gardens run by Anne-Laure Le Cunff. Last, but certainly not least, is another Telegram group but this time about newsletters, also run by Anne-Laure.
+As of now, there are three "professional" communities that I'm part of. The first one that I joined was the [[Obsidian]] Discord server. You remember Obsidian right? I've mentioned them in the last few posts. Anyway, the second community is a Telegram group about digital gardens run by Anne-Laure Le Cunff. Last, but certainly not least, is another Telegram group but this time about newsletters, also run by Anne-Laure.
 
 It took me a while to get used to the community feel of them, despite that being exactly what they were trying to do. In fact, I didn't become "settled" in any of the communities until quite recently. I tended to just read messages without really commenting on them. I guess I just didn't feel the need to say what I thought even when I had something to say.
 

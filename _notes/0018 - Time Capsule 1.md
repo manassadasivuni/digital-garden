@@ -31,7 +31,7 @@ I thought I had nailed this exam in the midterms but clearly not. When we went t
 - Learn how to link diagrams to something completely random (who knew marginal benefit and the demand curve were linked)
 - Use terminology _**and define/explain them**_
 
-I'll also have to write a lot faster, or at least waste less time. I'm going through the textbook, taking notes in Obsidian, then making cards in Anki but I need to practice questions as well.
+I'll also have to write a lot faster, or at least waste less time. I'm going through the textbook, taking notes in [[Obsidian]], then making cards in Anki but I need to practice questions as well.
 
 ### HL Physics
 I haven't done anything for this since the mid-terms. I need to get the textbook and do the practice questions in there. Then I need to get past paper questions and do those. 

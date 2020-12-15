@@ -6,6 +6,8 @@ Zettelkasten is German for "slip box". This was originally a physical shelf of i
 
 It's common for these notes to have a unique ID, usually the time of when these notes were taken. an example of this is the YYYYMMDDHHmm method of naming (year, month, day, hour, minutes) followed by the actual title of the note. An example would be `202011301059 The Engel Curve`.
 
+The main distinction between Zettelkasten and other notes is **that Zettelkasten creates links between notes**.
+
 ## Metadata
 - Index: [[PKM]]
 - Status: #🌿

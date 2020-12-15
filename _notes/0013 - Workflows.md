@@ -32,7 +32,7 @@ Regardless of which option you choose, some will agree with you and others will 
 
 For example, I used to use an app called Notion to take all of my notes. I even used it to start organising my personal life! This was mainly about stuff I had to do and a short-lived journal. Over time, I stopped maintaining my life with Notion and used it primarily as a note-taking tool. Then there was a game changer.
 
-I discovered Obsidian quite a while ago, but didn't use it as much as I should've. Instead, it served as a way for me to take rough notes in my class that I would then make a neater version of in Notion. This was quickly thrown out the window as Obsidian's backlinks feature, which promoted free-floating information, began to clash with Notion's hierarchical way of storing pages.
+I discovered [[Obsidian]] quite a while ago, but didn't use it as much as I should've. Instead, it served as a way for me to take rough notes in my class that I would then make a neater version of in Notion. This was quickly thrown out the window as Obsidian's backlinks feature, which promoted free-floating information, began to clash with Notion's hierarchical way of storing pages.
 
 At this point, I'd settled upon what I thought was a good balance: I'd take all my notes in Obsidian and only use Notion to keep track of tasks. This worked. Not very long though. I just couldn't be bothered with having to update my Notion database whenever I got a new piece of work (especially when I'd get two or three pieces of work in the same day). I eventually relapsed to the "leaving notification emails unread until I finished the task". This works because I read _all_ my mail which means that if an email hasn't been read, there's a reason behind it.
 

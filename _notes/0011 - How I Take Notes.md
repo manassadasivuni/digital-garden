@@ -17,7 +17,7 @@ Okay now onto the software.
 
 ## Software
 ### [Obsidian](https://obsidian.md)
-Obsidian is my go to note taking tool nowadays. It lets me make links between notes very easily by typing"\[\[" and it'll start autocompleting the link based on what I type. One of the interesting things about it is that it's not a normal text editor. Instead of being something like Word or Google Docs with all the fancy text formatting tools, Obsidian operates on markdown files. This means that your notes will never become outdated due to some technological change and that your notes are stored as plain text.
+[[Obsidian]] is my go to note taking tool nowadays. It lets me make links between notes very easily by typing"\[\[" and it'll start autocompleting the link based on what I type. One of the interesting things about it is that it's not a normal text editor. Instead of being something like Word or Google Docs with all the fancy text formatting tools, Obsidian operates on markdown files. This means that your notes will never become outdated due to some technological change and that your notes are stored as plain text.
 
 You can still format your notes but there's a specific syntax you need to follow which took me about 10 minutes to get used to. The only thing you'll need to know to take fully fledged notes is that you use "#" to specify headings and the more of them they are, the smaller the heading ("####" is smaller than "##"). Plus, the versatility of markdown means that it can be used for any purpose. This post you're reading right now was typed using only markdown but it's being rendered perfectly onto your screen.
 

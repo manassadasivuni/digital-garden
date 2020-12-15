@@ -6,7 +6,7 @@ Since there's a global pandemic on the loose, doing anything in-person has becom
 
 I previously finished my IGCSEs and have started my first year in the IBDP. The IBDP is known for its rigour and is widely described as the hardest high school diploma programme in the world. The thought that I'd begin one of the hardest years of my academic life in a hindered state was quite daunting.
 
-Not only did I have to learn how to learn effectively, my teachers had to figure out how to move all their lesson plans online and find a way to keep us engaged and productive during their lessons. I knew I could count on myself to find a way that worked for me. Fortunately, I stumbled upon a little known app called Obsidian which is designed to model how your brain functions. I now use it to take my notes for school and have customised it so that it fits my needs perfectly.
+Not only did I have to learn how to learn effectively, my teachers had to figure out how to move all their lesson plans online and find a way to keep us engaged and productive during their lessons. I knew I could count on myself to find a way that worked for me. Fortunately, I stumbled upon a little known app called [[Obsidian]] which is designed to model how your brain functions. I now use it to take my notes for school and have customised it so that it fits my needs perfectly.
 
 On the other end, most of my teachers were able to smoothly transition onto a digital medium of teaching. The ones that couldn't tended to have some sort of problem with the software they were using or the setup of their laptops. Over time, these wrinkles were ironed out.
 
