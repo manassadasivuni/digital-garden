@@ -25,3 +25,11 @@ Photo taken during committee, I'm in the top-right corner
 Their post on Instagram. The original post can be viewed here: [https://www.instagram.com/p/CFNBP72MAwy/](https://www.instagram.com/p/CFNBP72MAwy/)
 
 > [Certificate](https://notes.manassadasivuni.com/assets/docs/FLAMUN/FLAMUN EB Certificate.pdf)
+
+
+## Metadata
+- Index: [[CAS]]
+- Status: #🌲  
+- Origin: N/A
+- Links:
+	- [[0014 - MUNs]]
