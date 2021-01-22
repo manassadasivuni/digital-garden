@@ -10,7 +10,7 @@ The main distinction between Zettelkasten and other notes is **that Zettelkasten
 
 ## Metadata
 - Index: [[PKM]]
-- Status: #🌿
+- Status: #🌲 
 - Origin: Found somewhere on twitter
 - Links:
   - [[Niklas Luhmann]]
