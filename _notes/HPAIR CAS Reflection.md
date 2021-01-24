@@ -20,7 +20,11 @@ I didn't learn as much as I would have wanted as I could not a large portion of 
 
 ### Screenshots
 ![](assets/img/HPAIR/Screenshot 2021-01-15 210430.png)
+
+---
 ![](assets/img/HPAIR/Screenshot 2021-01-19 113246.png)
+
+---
 ![](assets/img/HPAIR/Screenshot 2021-01-19 114629.png)
 
 ## Metadata
