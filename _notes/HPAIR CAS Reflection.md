@@ -20,12 +20,13 @@ I didn't learn as much as I would have wanted as I could not a large portion of 
 
 ### Screenshots
 ![](assets/img/HPAIR/Screenshot 2021-01-15 210430.png)
+Talk with André Hoffman & Martin Roll
 
----
 ![](assets/img/HPAIR/Screenshot 2021-01-19 113246.png)
+Closing Ceremony
 
----
 ![](assets/img/HPAIR/Screenshot 2021-01-19 114629.png)
+Closing Ceremony
 
 ## Metadata
 - Index: [[CAS]]
