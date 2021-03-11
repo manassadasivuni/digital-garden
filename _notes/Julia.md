@@ -1,10 +1,10 @@
 ---
-title: {{tp_title}}
+title: Julia
 ---
 
 ## Metadata
 - Index: [[1984]]
-- Status: #🌱   
+- Status: #🌱 
 - Origin: 
 - Links:
-	- 
+	- [[Winston]]

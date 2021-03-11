@@ -1,5 +1,5 @@
 ---
-title: {{tp_title}}
+title: Miniplenty
 ---
 
 ## Metadata
@@ -7,4 +7,6 @@ title: {{tp_title}}
 - Status: #🌱   
 - Origin: 
 - Links:
-	- 
+	- [[Miniluv]]
+	- [[Minitrue]]
+	- [[Minipax]]
