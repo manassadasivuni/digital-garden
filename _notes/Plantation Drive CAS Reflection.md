@@ -17,6 +17,12 @@ The only thing I disliked about the drive was the fact that I won't be able to s
 
 ![](assets/img/plantation/IMG-20210223-WA0013.jpg)
 
+
+![](assets/img/plantation/IMG_20210214_073335 (2).jpg)
+
+
+![](assets/img/plantation/IMG_20210214_073456.jpg)
+
 ## Metadata
 - Index: [[CAS]]
 - Status: #🌲  
